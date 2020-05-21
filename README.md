@@ -2,11 +2,13 @@
 
 ### Requirements:
 
-Set the following as environment variables:
+Set OKTA_DOMAIN and OKTA_API_TOKEN as environment variables
 
-OKTA_DOMAIN
-
-OKTA_API_TOKEN
+For macOS, edit ~/.bash_profile and reload terminal:
+```
+export OKTA_DOMAIN='your_domain.okta.com'
+export OKTA_API_TOKEN='xxxxxxxxxxxxxxxxxxxxxxxxx'
+```
 
 ### Examples:
 
