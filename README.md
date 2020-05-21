@@ -5,6 +5,7 @@
 Set the following as environment variables:
 
 OKTA_DOMAIN
+
 OKTA_API_TOKEN
 
 ### Examples:
